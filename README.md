@@ -1,7 +1,6 @@
 # Internal-windows-tools
 
-I created this repository with the idea of scenarios where you don't have access to the internal network through a machine that allows you to install tools.
-
+I created this repository with the idea of scenarios where you can't install tools on the compromised windows host
 ## Tools
 
 Some of the tools were extracted from one of the latest versions of [Impacket](https://github.com/fortra/impacket)
