@@ -54,9 +54,8 @@ Some screenshots of the executables in action.
 ![wmiexec](https://i.imgur.com/uaFJ8L3.png)
 ## Credits
 
-[Impacket](https://github.com/fortra/impacket)
-[tothi](https://github.com/tothi/rbcd-attack)
-[maaaaz](https://github.com/maaaaz/impacket-examples-windows)
-[ly4k](https://github.com/ly4k/PrintNightmare)
-
+- [Impacket](https://github.com/fortra/impacket)
+- [tothi](https://github.com/tothi/rbcd-attack)
+- [maaaaz](https://github.com/maaaaz/impacket-examples-windows)
+- [ly4k](https://github.com/ly4k/PrintNightmare)
 
