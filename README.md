@@ -11,7 +11,7 @@ ssh and ftp login were created to test credentials.
 
 The rbcd tool does not come from Impacket suite was compiled from the [tohi](https://github.com/tothi/rbcd-attack) version
 
-and I followed the compilation instructions provided by: [maaaaz] (https://github.com/maaaaz/CrackMapExecWin/wiki/How-to-compile-CrackMapExec-for-Windows)
+and I followed the compilation instructions provided by: [maaaaz](https://github.com/maaaaz/CrackMapExecWin/wiki/How-to-compile-CrackMapExec-for-Windows)
 
 ## List of tools
 
