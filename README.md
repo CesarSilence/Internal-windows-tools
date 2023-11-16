@@ -37,7 +37,8 @@ and I followed the compilation instructions provided by: [maaaaz](https://github
 |ssh_login          |`v1`
 |ticketer          |`v0.10.0`
 |wmiexec          |`v0.10.0`
-
+|ezssh          |`v1`
+|gotcp (port scan)          |`v1`
 
 ## Screenshots
 
@@ -51,6 +52,13 @@ Some screenshots of the executables in action.
 ![secretsdump](https://i.imgur.com/PPyjGy0.png)
 ### wmiexec
 ![wmiexec](https://i.imgur.com/uaFJ8L3.png)
+### ezssh
+![ezssh](https://i.imgur.com/fx3dUuT.png)
+### gotcp
+![gotcp](https://i.imgur.com/HN3WI1P.png)
+
+
+
 ## Credits
 
 - [Impacket](https://github.com/fortra/impacket)
